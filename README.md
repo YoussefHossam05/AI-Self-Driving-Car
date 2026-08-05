@@ -1,12 +1,12 @@
-# AI Self-Driving Car 🚗
+# AI Self-Driving Car 
 
 An autonomous self-driving car prototype developed as our Computer Engineering graduation project.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project aims to build an autonomous vehicle capable of understanding its environment, planning a safe path, and making driving decisions with minimal human intervention.
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The project consists of four main layers:
 
@@ -15,7 +15,7 @@ The project consists of four main layers:
 - Local Planning Layer
 - Control Layer
 
-## 🤖 My Role
+##  My Role
 
 As the Team Leader, I was responsible for the **Perception Layer**, including:
 
@@ -25,7 +25,7 @@ As the Team Leader, I was responsible for the **Perception Layer**, including:
 - Model evaluation
 - Performance optimization for Raspberry Pi deployment
 
-## 🛠 Technologies
+##  Technologies
 
 - Python
 - YOLOv8
